@@ -1,5 +1,5 @@
-# Movies: Extract, Transform, Load
-**Extracting data from different sources, processing, and presenting the data via SQL**
+# Extract, Transform, Load, Action!
+**Preparing messy data from Wikipedia and Kaggle for a Movie Hack-a-Thon**
 #### by Justin R. Papreck
 ---
 
